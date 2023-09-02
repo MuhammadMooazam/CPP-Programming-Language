@@ -9,8 +9,7 @@ This repository is your gateway to learning C++ programming. Whether you're a be
 
 1. **Clone this Repository**: `git clone https://github.com/YourUsername/CppProgrammingCourse.git` <br>
 2. **Explore the Code**: Dive into the files to access source code. <br>
-3. **Start Learning**: Follow along with the YouTube playlist and refer to the notes as needed. <br>
-4. **Practice**: The best way to learn is by coding! Try out the examples and exercises in the repository.
+3. **Practice**: The best way to learn is by coding! Try out the examples and exercises in the repository.
 
 ---
 
