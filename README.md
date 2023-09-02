@@ -2,8 +2,8 @@
 
 Playlist URL: https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL
 
-Notes URL: https://www.codewithharry.com/videos/cpp-tutorials-in-hindi-6/
+Notes URL: https://www.codewithharry.com/videos/cpp-tutorials-in-hindi-7/
 
 Replace the number in the url with the video number
 
-Video Number: 06
+Video Number: 07
