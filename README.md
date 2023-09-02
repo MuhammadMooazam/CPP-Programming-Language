@@ -7,7 +7,7 @@ This repository is your gateway to learning C++ programming. Whether you're a be
 
 ### Getting Started 🚀
 
-1. **Clone this Repository**: `git clone https://github.com/YourUsername/CppProgrammingCourse.git` <br>
+1. **Clone this Repository**: `git clone https://github.com/MuhammadMooazam/CPP-Programming-Language.git` <br>
 2. **Explore the Code**: Dive into the files to access source code. <br>
 3. **Practice**: The best way to learn is by coding! Try out the examples and exercises in the repository.
 
